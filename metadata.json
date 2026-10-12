@@ -1,0 +1,6 @@
+{
+  "name": "VoiceForge - AI YouTube Text to Speech",
+  "description": "Studio-grade Text-to-Speech web app for YouTube creators with multi-speaker dialogue, 60,000-character long script chunking, Gemini TTS voices, and WAV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
